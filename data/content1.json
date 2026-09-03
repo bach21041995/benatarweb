@@ -1,0 +1,642 @@
+{
+    "company": {
+        "name": "BenatarCorp",
+        "tagline": "We tell real stories through cinematic documentary experiences.",
+        "phone": "0822880270",
+        "email": "hello@creative.vn",
+        "address": "Toà nhà More Building, Số 36 Mạc Đỉnh Chi, Phường Tân Định, TP Hồ Chí Minh, Việt Nam",
+        "ceo": "Christopher Tran",
+        "tax_code": "0319409541",
+        "facebook": "https:\/\/facebook.com",
+        "youtube": "https:\/\/youtube.com",
+        "tiktok": "https:\/\/tiktok.com",
+        "zalo": "0822880270"
+    },
+    "hero": {
+        "label": "Sản xuất Phim tài liệu Điện ảnh",
+        "title": "Kể câu chuyện<br>bằng <span class=\"text-accent\">hình ảnh<\/span>",
+        "subtitle": "Chúng tôi kể những câu chuyện thật qua trải nghiệm phim tài liệu điện ảnh.",
+        "background_image": "uploads\/69bcb6bad546d_1773975226.jpg",
+        "background_video": ""
+    },
+    "about": {
+        "image": "uploads\/69c623a1daafb_1774592929.jpg",
+        "title": "Mỗi cá nhân đều có một <span class=\"text-accent\">câu chuyện<\/span>; Mỗi thương hiệu đều có một <span class=\"text-accent\">biểu sắc<\/span>; Mỗi doanh nghiệp đều sở hữu một <span class=\"text-accent\">hành trình<\/span>",
+        "paragraphs": [
+            "Thành lập ngày 08\/6\/2026, Benatar Entertainment là đơn vị sản xuất nội dung toàn diện, chuyên về phim điện ảnh, phim ngắn, TVC, MV, chuỗi phim nhiều tập và các chương trình giải trí. Kết hợp tiêu chuẩn quốc tế với sức sáng tạo của đội ngũ trẻ, Benatar tạo nên những tác phẩm giàu giá trị nghệ thuật, đậm bản sắc Việt và phù hợp thị hiếu đa dạng."
+        ],
+        "quote": "Một bộ phim khác biệt không đến từ kỹ thuật, mà từ sự thấu hiểu sâu sắc."
+    },
+    "services": [
+        {
+            "id": "1",
+            "label": "",
+            "title": "Sản xuất Phim",
+            "description": "Kể câu chuyện thương hiệu bằng ngôn ngữ điện ảnh, phong cách phim tài liệu Netflix.",
+            "link": "#",
+            "image": "https:\/\/images.unsplash.com\/photo-1485846234645-a62644f84728?w=800&q=80"
+        },
+        {
+            "id": "2",
+            "label": "",
+            "title": "Sản xuất TVC, MV",
+            "description": "Ekip có nhân sự với đa dạng kinh nghiệm thực chiến.",
+            "link": "#",
+            "image": "https:\/\/images.unsplash.com\/photo-1554048612-b6a482bc67e5?w=800&q=80"
+        }
+    ],
+    "team": [
+        {
+            "id": "1",
+            "name": "Christopher Tran",
+            "role": "Sáng lập",
+            "quote": "",
+            "image": "uploads\/69c649ac81200_1774602668.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Phạm Diệp Mỹ Tiên",
+            "role": "Đồng sáng lập",
+            "quote": "",
+            "image": "uploads\/69c6270d62a06_1774593805.jpg"
+        },
+        {
+            "id": "1774507012",
+            "name": "Đặng Thị Bảo Châu",
+            "role": "Đồng sáng lập",
+            "quote": "",
+            "image": "uploads\/69c64adbaa3f8_1774602971.png"
+        },
+        {
+            "id": "1788244255",
+            "name": "Minh Thiên",
+            "role": "Director (1st)",
+            "quote": "",
+            "image": "uploads\/6a96711f99f86_1788244255.png"
+        },
+        {
+            "id": 1788244359,
+            "name": "Thiên Tú",
+            "role": "Producer",
+            "quote": "",
+            "image": "uploads\/6a967187f25be_1788244359.png"
+        }
+    ],
+    "features": [
+        {
+            "id": 1,
+            "icon": "lightbulb",
+            "title": "Ánh sáng tự nhiên",
+            "description": "Tận dụng ánh sáng tự nhiên để tạo nên những khung hình chân thực và đầy cảm xúc."
+        },
+        {
+            "id": "2",
+            "icon": "film",
+            "title": "Góc quay chuẩn điện ảnh",
+            "description": "Góc quay rộng theo phong cách điện ảnh, mang lại trải nghiệm Khoảnh khắc kể chuyện."
+        },
+        {
+            "id": 3,
+            "icon": "users",
+            "title": "Con người trong bối cảnh",
+            "description": "Đặt con người vào bối cảnh tự nhiên, kể câu chuyện qua từng khoảnh khắc."
+        },
+        {
+            "id": 4,
+            "icon": "camera",
+            "title": "Storytelling moment",
+            "description": "Bắt trọn những khoảnh khắc kể chuyện, tạo nên narrative mạnh mẽ."
+        },
+        {
+            "id": "5",
+            "icon": "settings",
+            "title": "Màu sắc điện ảnh",
+            "description": "Chỉnh màu (Color grading) theo phong cách phim tài liệu, tôn trọng sắc thái tự nhiên và hạn chế can thiệp quá mức."
+        },
+        {
+            "id": "6",
+            "icon": "lightbulb",
+            "title": "Cảm giác chân thật",
+            "description": "Giữ nguyên sự chân thực, không dàn dựng quá mức, để câu chuyện tự cất lời."
+        }
+    ],
+    "process": [
+        {
+            "id": "1",
+            "title": "DEVELOP \/ PHÁT TRIỂN",
+            "description": "Concept • Script • Format",
+            "image": ""
+        },
+        {
+            "id": "2",
+            "title": "PRODUCE \/ SẢN XUẤT",
+            "description": "Studio • Location • Post",
+            "image": ""
+        },
+        {
+            "id": "3",
+            "title": "AMPLIFY \/ ĐỒNG HÀNH",
+            "description": "Brand integration • PR • Digital",
+            "image": ""
+        },
+        {
+            "id": "4",
+            "title": "DISTRIBUTE \/ PHÁT HÀNH",
+            "description": "Licensing • Platforms • Markets",
+            "image": ""
+        }
+    ],
+    "clients": [],
+    "cta": {
+        "title": "Sẵn sàng kể <span class=\"text-accent\">câu chuyện<\/span> của bạn?",
+        "subtitle": "Hãy liên hệ với chúng tôi để bắt đầu hành trình sáng tạo"
+    },
+    "settings": {
+        "primary_color": "#8B1E2D",
+        "secondary_color": "#C9A24A",
+        "logo": "",
+        "favicon": ""
+    },
+    "gallery": [
+        {
+            "id": "69bcb1f66f23b",
+            "type": "video",
+            "title": "Núi bà",
+            "description": "",
+            "file": "",
+            "thumbnail": "uploads\/gallery\/69bcb1f66f2aa_1773974006.png",
+            "video_url": "https:\/\/drive.google.com\/file\/d\/1EPWivXslqNHFeP9AduNZE0-vxVNUQbwc\/view",
+            "created_at": ""
+        },
+        {
+            "id": "69bcb23260c63",
+            "type": "video",
+            "title": "Nam Thăng Long",
+            "description": "",
+            "file": "",
+            "thumbnail": "uploads\/gallery\/69bcb23260cc5_1773974066.png",
+            "video_url": "https:\/\/drive.google.com\/file\/d\/1pBoXHPQT8cSjXRtbHr310QcEkM4cUYpD\/view",
+            "created_at": ""
+        },
+        {
+            "id": "69bcb27b287cd",
+            "type": "video",
+            "title": "Con đường đạo học",
+            "description": "",
+            "file": "",
+            "thumbnail": "uploads\/gallery\/69bcb27b2882b_1773974139.png",
+            "video_url": "https:\/\/drive.google.com\/file\/d\/1Lx4MXvQ7nDe-iu79iUfeGRsDE8KG96Pq\/view",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9ae63d41",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9ae63dd8_1783482798.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9ae63dd8_1783482798.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9b718886",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9b7188df_1783482807.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9b7188df_1783482807.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9bf4276f",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9bf427da_1783482815.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9bf427da_1783482815.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9c6e2be2",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9c6e2c6e_1783482822.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9c6e2c6e_1783482822.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9d9dea65",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9d9deaef_1783482841.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9d9deaef_1783482841.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9fed1b73",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9fed1c0a_1783482878.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9fed1c0a_1783482878.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dca092758b",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dca09275e8_1783482889.png",
+            "thumbnail": "uploads\/gallery\/6a4dca09275e8_1783482889.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dca11438e4",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dca114398d_1783482897.png",
+            "thumbnail": "uploads\/gallery\/6a4dca114398d_1783482897.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dca1b6f4bb",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dca1b6f545_1783482907.png",
+            "thumbnail": "uploads\/gallery\/6a4dca1b6f545_1783482907.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dca2452e08",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dca2452e5f_1783482916.png",
+            "thumbnail": "uploads\/gallery\/6a4dca2452e5f_1783482916.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dcaf911ef4",
+            "type": "video",
+            "title": "Người Nuôi Diều",
+            "description": "",
+            "file": "",
+            "thumbnail": "uploads\/gallery\/6a4dcb7201f2a_1783483250.png",
+            "video_url": "https:\/\/drive.google.com\/file\/d\/1rq3aEvev_HDYqLKYleN3LF_cHYn5pna2\/view",
+            "created_at": ""
+        },
+        {
+            "id": "6a967242c9fe0",
+            "type": "video",
+            "title": "“Cô đơn giữa cuộc tình” - Hồ Ngọc Hà",
+            "description": "",
+            "file": "",
+            "thumbnail": "https:\/\/img.youtube.com\/vi\/-N1H37hevUQ\/maxresdefault.jpg",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=-N1H37hevUQ",
+            "created_at": ""
+        },
+        {
+            "id": "6a96726749801",
+            "type": "video",
+            "title": "“Mối tình xưa” - Hồ Ngọc Hà",
+            "description": "",
+            "file": "",
+            "thumbnail": "https:\/\/img.youtube.com\/vi\/EXEcGRBqmgs\/maxresdefault.jpg",
+            "video_url": "https:\/\/youtu.be\/EXEcGRBqmgs?si=-w3HY6oo8lvObp1F",
+            "created_at": ""
+        },
+        {
+            "id": "6a967298dfedf",
+            "type": "video",
+            "title": "“Bức tranh tiền kiếp” - Dương Triệu Vũ",
+            "description": "",
+            "file": "",
+            "thumbnail": "https:\/\/img.youtube.com\/vi\/YGMKEy1PqdY\/maxresdefault.jpg",
+            "video_url": "https:\/\/youtu.be\/YGMKEy1PqdY?si=uskfXu5tB10DUW23",
+            "created_at": ""
+        },
+        {
+            "id": "6a9672b5771a8",
+            "type": "video",
+            "title": "“Ngải tình” - Thuỷ Tiên x DTAP",
+            "description": "",
+            "file": "",
+            "thumbnail": "https:\/\/img.youtube.com\/vi\/l9Q7AmJqGsw\/maxresdefault.jpg",
+            "video_url": "https:\/\/youtu.be\/l9Q7AmJqGsw?si=OAHtFRUR26wznDoC",
+            "created_at": ""
+        },
+        {
+            "id": "6a9672e7dfe55",
+            "type": "video",
+            "title": "“Người nuôi diều”",
+            "description": "",
+            "file": "",
+            "thumbnail": "https:\/\/img.youtube.com\/vi\/16fV6_cCTKE\/maxresdefault.jpg",
+            "video_url": "https:\/\/youtu.be\/16fV6_cCTKE?si=XPJAkUlnhQSfqdfP",
+            "created_at": ""
+        }
+    ],
+    "admin_menus": [
+        {
+            "id": "dashboard",
+            "title": "Dashboard",
+            "page": "index",
+            "icon": "home",
+            "section": "overview",
+            "order": 0,
+            "active": true,
+            "system": true,
+            "frontend_section": ""
+        },
+        {
+            "id": "company",
+            "title": "Thông tin công ty",
+            "page": "company",
+            "icon": "building",
+            "section": "content",
+            "order": 1,
+            "active": true,
+            "frontend_section": ""
+        },
+        {
+            "id": "hero",
+            "title": "Banner trang chủ",
+            "page": "hero",
+            "icon": "image",
+            "section": "content",
+            "order": 2,
+            "active": true,
+            "frontend_section": "hero"
+        },
+        {
+            "id": "about",
+            "title": "Về chúng tôi",
+            "page": "about",
+            "icon": "info",
+            "section": "content",
+            "order": 3,
+            "active": true,
+            "frontend_section": "about"
+        },
+        {
+            "id": "services",
+            "title": "Dịch vụ",
+            "page": "services",
+            "icon": "box",
+            "section": "content",
+            "order": 4,
+            "active": true,
+            "frontend_section": "services"
+        },
+        {
+            "id": "team",
+            "title": "Đội ngũ",
+            "page": "team",
+            "icon": "users",
+            "section": "content",
+            "order": 5,
+            "active": true,
+            "frontend_section": "team"
+        },
+        {
+            "id": "features",
+            "title": "Điểm nổi bật",
+            "page": "features",
+            "icon": "star",
+            "section": "content",
+            "order": 6,
+            "active": false,
+            "frontend_section": "features"
+        },
+        {
+            "id": "process",
+            "title": "Quy trình",
+            "page": "process",
+            "icon": "list",
+            "section": "content",
+            "order": 7,
+            "active": true,
+            "frontend_section": "process"
+        },
+        {
+            "id": "clients",
+            "title": "Khách hàng",
+            "page": "clients",
+            "icon": "user",
+            "section": "content",
+            "order": 8,
+            "active": true,
+            "frontend_section": "clients"
+        },
+        {
+            "id": "gallery",
+            "title": "Tư liệu (Ảnh\/Video)",
+            "page": "gallery",
+            "icon": "gallery",
+            "section": "content",
+            "order": 9,
+            "active": true,
+            "frontend_section": "gallery"
+        },
+        {
+            "id": "cta",
+            "title": "CTA (Kêu gọi hành động)",
+            "page": "cta",
+            "icon": "zap",
+            "section": "content",
+            "order": 10,
+            "active": true,
+            "frontend_section": "cta"
+        },
+        {
+            "id": "footer",
+            "title": "Footer",
+            "page": "footer",
+            "icon": "layers",
+            "section": "content",
+            "order": 11,
+            "active": true,
+            "frontend_section": ""
+        },
+        {
+            "id": "contacts",
+            "title": "Liên hệ nhận được",
+            "page": "contacts",
+            "icon": "message",
+            "section": "customer",
+            "order": 12,
+            "active": true,
+            "frontend_section": "contact"
+        },
+        {
+            "id": "sections",
+            "title": "Sắp xếp Section",
+            "page": "sections",
+            "icon": "grid",
+            "section": "settings",
+            "order": 13,
+            "active": true,
+            "frontend_section": ""
+        },
+        {
+            "id": "menus",
+            "title": "Quản lý Menu",
+            "page": "menus",
+            "icon": "menu",
+            "section": "settings",
+            "order": 14,
+            "active": true,
+            "system": true,
+            "frontend_section": ""
+        },
+        {
+            "id": "settings",
+            "title": "Cài đặt chung",
+            "page": "settings",
+            "icon": "settings",
+            "section": "settings",
+            "order": 15,
+            "active": true,
+            "frontend_section": ""
+        }
+    ],
+    "menu_sections": [
+        {
+            "id": "overview",
+            "title": "Tổng quan",
+            "order": 0
+        },
+        {
+            "id": "content",
+            "title": "Nội dung",
+            "order": 1
+        },
+        {
+            "id": "customer",
+            "title": "Khách hàng",
+            "order": 2
+        },
+        {
+            "id": "settings",
+            "title": "Cài đặt",
+            "order": 3
+        }
+    ],
+    "footer": {
+        "tagline_vi": "Kể chuyện thương hiệu bằng hình ảnh",
+        "tagline_en": "Brand storytelling through visuals",
+        "description_vi": "Benatar Corporation là đơn vị tiên phong trong lĩnh vực sản xuất phim quảng cáo và doanh nghiệp, mang đến những câu chuyện thương hiệu đầy cảm xúc.",
+        "description_en": "Benatar Corporation is a pioneer in advertising and corporate film production, delivering emotionally compelling brand stories.",
+        "copyright_vi": "© 2024 Benatar Corporation. Đã đăng ký bản quyền.",
+        "copyright_en": "© 2024 Benatar Corporation. All rights reserved.",
+        "nav_links": [
+            {
+                "title_vi": "Về chúng tôi",
+                "title_en": "About Us",
+                "url": "#about"
+            },
+            {
+                "title_vi": "Dịch vụ",
+                "title_en": "Services",
+                "url": "#services"
+            },
+            {
+                "title_vi": "Tư liệu",
+                "title_en": "Gallery",
+                "url": "#gallery"
+            },
+            {
+                "title_vi": "Liên hệ",
+                "title_en": "Contact",
+                "url": "#contact"
+            }
+        ]
+    },
+    "frontend_sections": [
+        {
+            "id": "hero",
+            "title_vi": "Banner trang chủ",
+            "title_en": "Hero Banner",
+            "label_vi": "",
+            "label_en": "",
+            "order": 0
+        },
+        {
+            "id": "about",
+            "title_vi": "CÔNG TY SẢN XUẤT SÁNG TẠO",
+            "title_en": "A CREATIVE PRODUCTION <span class=\"text-accent\">story<\/span> <span class=\"text-accent\">COMPANY <\/span>",
+            "label_vi": "Về chúng tôi",
+            "label_en": "About Benatar",
+            "order": 1
+        },
+        {
+            "id": "services",
+            "title_vi": "Cách chúng tôi kể",
+            "title_en": "How We Tell Stories",
+            "label_vi": "Dịch vụ",
+            "label_en": "Services",
+            "order": 2
+        },
+        {
+            "id": "team",
+            "title_vi": "Đôi mắt sau ống kính",
+            "title_en": "The Eyes Behind the Lens",
+            "label_vi": "Đội ngũ",
+            "label_en": "Our Team",
+            "order": 3
+        },
+        {
+            "id": "features",
+            "title_vi": "Tại sao chọn chúng tôi",
+            "title_en": "Why Choose Us",
+            "label_vi": "Thế mạnh",
+            "label_en": "Why Choose Us",
+            "order": 4
+        },
+        {
+            "id": "process",
+            "title_vi": "Hành trình sáng tạo",
+            "title_en": "Creative Journey",
+            "label_vi": "Quy trình hợp tác & phát hành",
+            "label_en": "PRODUCTION WORKFLOW",
+            "order": 5
+        },
+        {
+            "id": "clients",
+            "title_vi": "Khách hàng tin tưởng",
+            "title_en": "Trusted Clients",
+            "label_vi": "Đối tác",
+            "label_en": "Partners",
+            "order": 6
+        },
+        {
+            "id": "gallery",
+            "title_vi": "Hình ảnh & Video",
+            "title_en": "Photos & Videos",
+            "label_vi": "Tư liệu",
+            "label_en": "Gallery",
+            "order": 7
+        },
+        {
+            "id": "cta",
+            "title_vi": "Sẵn sàng kể <span class=\"text-accent\">câu chuyện<\/span> của bạn?",
+            "title_en": "Ready to tell <span class=\"text-accent\">your story<\/span>?",
+            "label_vi": "",
+            "label_en": "",
+            "order": 8
+        }
+    ]
+}

@@ -1,0 +1,956 @@
+{
+    "company": {
+        "name": "BenatarCorp",
+        "tagline": "We tell real stories through cinematic documentary experiences.",
+        "phone": "0822880270",
+        "email": "hello@creative.vn",
+        "address": "Toà nhà More Building, Số 36 Mạc Đỉnh Chi, Phường Tân Định, TP Hồ Chí Minh, Việt Nam",
+        "ceo": "Christopher Tran",
+        "tax_code": "0319409541",
+        "facebook": "https:\/\/facebook.com",
+        "youtube": "https:\/\/youtube.com",
+        "tiktok": "https:\/\/tiktok.com",
+        "zalo": "0822880270"
+    },
+    "hero": {
+        "label": "Sản xuất Phim tài liệu Điện ảnh",
+        "title": "Kể câu chuyện<br>bằng <span class=\"text-accent\">hình ảnh<\/span>",
+        "subtitle": "Chúng tôi kể những câu chuyện thật qua trải nghiệm phim tài liệu điện ảnh.",
+        "background_image": "uploads\/69bcb6bad546d_1773975226.jpg",
+        "background_video": ""
+    },
+    "about": {
+        "image": "uploads\/69c623a1daafb_1774592929.jpg",
+        "title": "Mỗi cá nhân đều có một <span class=\"text-accent\">câu chuyện<\/span>; Mỗi thương hiệu đều có một <span class=\"text-accent\">biểu sắc<\/span>; Mỗi doanh nghiệp đều sở hữu một <span class=\"text-accent\">hành trình<\/span>",
+        "paragraphs": [
+            "Chúng tôi luôn đồng hành, lắng nghe và khắc họa bản sắc thương hiệu của bạn qua lăng kính nghệ thuật.",
+            "Với phong cách phim tài liệu chuẩn điện ảnh - tận dụng ánh sáng tự nhiên, màu sắc điện ảnh và chất liệu chân thật - chúng tôi sẽ kể câu chuyện của bạn theo cách đặc biệt nhất."
+        ],
+        "quote": "Một bộ phim khác biệt không đến từ kỹ thuật, mà từ sự thấu hiểu sâu sắc."
+    },
+    "services": [
+        {
+            "id": "1",
+            "label": "",
+            "title": "Sản xuất Phim",
+            "description": "Kể câu chuyện thương hiệu bằng ngôn ngữ điện ảnh, phong cách phim tài liệu Netflix.",
+            "link": "#",
+            "image": "https:\/\/images.unsplash.com\/photo-1485846234645-a62644f84728?w=800&q=80"
+        },
+        {
+            "id": "2",
+            "label": "",
+            "title": "Sản xuất TVC, MV",
+            "description": "Ekip có nhân sự với đa dạng kinh nghiệm thực chiến.",
+            "link": "#",
+            "image": "https:\/\/images.unsplash.com\/photo-1554048612-b6a482bc67e5?w=800&q=80"
+        }
+    ],
+    "team": [
+        {
+            "id": "1",
+            "name": "Christopher Tran",
+            "role": "Sáng lập",
+            "quote": "",
+            "image": "uploads\/69c649ac81200_1774602668.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Phạm Diệp Mỹ Tiên",
+            "role": "Đồng sáng lập",
+            "quote": "",
+            "image": "uploads\/69c6270d62a06_1774593805.jpg"
+        },
+        {
+            "id": "1774507012",
+            "name": "Đặng Thị Bảo Châu",
+            "role": "Đồng sáng lập",
+            "quote": "",
+            "image": "uploads\/69c64adbaa3f8_1774602971.png"
+        },
+        {
+            "id": "1788244255",
+            "name": "Minh Thiên",
+            "role": "Director (1st)",
+            "quote": "",
+            "image": "uploads\/6a96711f99f86_1788244255.png"
+        },
+        {
+            "id": 1788244359,
+            "name": "Thiên Tú",
+            "role": "Producer",
+            "quote": "",
+            "image": "uploads\/6a967187f25be_1788244359.png"
+        }
+    ],
+    "features": [
+        {
+            "id": 1,
+            "icon": "lightbulb",
+            "title": "Ánh sáng tự nhiên",
+            "description": "Tận dụng ánh sáng tự nhiên để tạo nên những khung hình chân thực và đầy cảm xúc."
+        },
+        {
+            "id": "2",
+            "icon": "film",
+            "title": "Góc quay chuẩn điện ảnh",
+            "description": "Góc quay rộng theo phong cách điện ảnh, mang lại trải nghiệm Khoảnh khắc kể chuyện."
+        },
+        {
+            "id": 3,
+            "icon": "users",
+            "title": "Con người trong bối cảnh",
+            "description": "Đặt con người vào bối cảnh tự nhiên, kể câu chuyện qua từng khoảnh khắc."
+        },
+        {
+            "id": 4,
+            "icon": "camera",
+            "title": "Storytelling moment",
+            "description": "Bắt trọn những khoảnh khắc kể chuyện, tạo nên narrative mạnh mẽ."
+        },
+        {
+            "id": "5",
+            "icon": "settings",
+            "title": "Màu sắc điện ảnh",
+            "description": "Chỉnh màu (Color grading) theo phong cách phim tài liệu, tôn trọng sắc thái tự nhiên và hạn chế can thiệp quá mức."
+        },
+        {
+            "id": "6",
+            "icon": "lightbulb",
+            "title": "Cảm giác chân thật",
+            "description": "Giữ nguyên sự chân thực, không dàn dựng quá mức, để câu chuyện tự cất lời."
+        }
+    ],
+    "process": [
+        {
+            "id": 1,
+            "title": "Tìm hiểu & Lắng nghe",
+            "description": "Chúng tôi dành thời gian để hiểu sâu về thương hiệu, văn hóa và câu chuyện của bạn."
+        },
+        {
+            "id": "2",
+            "title": "Lên ý tưởng",
+            "description": "Lên ý tưởng Phát triển ý tưởng sáng tạo độc bản, phù hợp với bản sắc và mục tiêu của thương hiệu.",
+            "image": ""
+        },
+        {
+            "id": "3",
+            "title": "Sản xuất",
+            "description": "Thực hiện quay phim và chụp ảnh với phong cách tài liệu điện ảnh đặc trưng.",
+            "image": ""
+        },
+        {
+            "id": "4",
+            "title": "Hậu kỳ",
+            "description": "Hậu kỳ Chỉnh màu (Color grading), biên tập âm thanh, hình ảnh để hoàn thiện sản phẩm với chất lượng cao nhất.",
+            "image": ""
+        }
+    ],
+    "clients": [],
+    "cta": {
+        "title_vi": "Sẵn sàng kể <span class=\"text-accent\">câu chuyện<\/span> của bạn?",
+        "title_en": "Ready to tell <span class=\"text-accent\">your story<\/span>?",
+        "subtitle_vi": "Hãy liên hệ với chúng tôi để bắt đầu hành trình sáng tạo",
+        "subtitle_en": "Contact us to start your creative journey",
+        "button_vi": "Liên hệ ngay",
+        "button_en": "Contact Now",
+        "background_image": ""
+    },
+    "settings": {
+        "primary_color": "#8B1E2D",
+        "secondary_color": "#C9A24A",
+        "logo": "",
+        "favicon": ""
+    },
+    "gallery": [
+        {
+            "id": "69bcb1f66f23b",
+            "type": "video",
+            "title": "Núi bà",
+            "description": "",
+            "file": "",
+            "thumbnail": "uploads\/gallery\/69bcb1f66f2aa_1773974006.png",
+            "video_url": "https:\/\/drive.google.com\/file\/d\/1EPWivXslqNHFeP9AduNZE0-vxVNUQbwc\/view",
+            "created_at": ""
+        },
+        {
+            "id": "69bcb23260c63",
+            "type": "video",
+            "title": "Nam Thăng Long",
+            "description": "",
+            "file": "",
+            "thumbnail": "uploads\/gallery\/69bcb23260cc5_1773974066.png",
+            "video_url": "https:\/\/drive.google.com\/file\/d\/1pBoXHPQT8cSjXRtbHr310QcEkM4cUYpD\/view",
+            "created_at": ""
+        },
+        {
+            "id": "69bcb27b287cd",
+            "type": "video",
+            "title": "Con đường đạo học",
+            "description": "",
+            "file": "",
+            "thumbnail": "uploads\/gallery\/69bcb27b2882b_1773974139.png",
+            "video_url": "https:\/\/drive.google.com\/file\/d\/1Lx4MXvQ7nDe-iu79iUfeGRsDE8KG96Pq\/view",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9ae63d41",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9ae63dd8_1783482798.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9ae63dd8_1783482798.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9b718886",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9b7188df_1783482807.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9b7188df_1783482807.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9bf4276f",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9bf427da_1783482815.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9bf427da_1783482815.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9c6e2be2",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9c6e2c6e_1783482822.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9c6e2c6e_1783482822.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9d9dea65",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9d9deaef_1783482841.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9d9deaef_1783482841.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dc9fed1b73",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dc9fed1c0a_1783482878.png",
+            "thumbnail": "uploads\/gallery\/6a4dc9fed1c0a_1783482878.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dca092758b",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dca09275e8_1783482889.png",
+            "thumbnail": "uploads\/gallery\/6a4dca09275e8_1783482889.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dca11438e4",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dca114398d_1783482897.png",
+            "thumbnail": "uploads\/gallery\/6a4dca114398d_1783482897.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dca1b6f4bb",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dca1b6f545_1783482907.png",
+            "thumbnail": "uploads\/gallery\/6a4dca1b6f545_1783482907.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dca2452e08",
+            "type": "image",
+            "title": "",
+            "description": "",
+            "file": "uploads\/gallery\/6a4dca2452e5f_1783482916.png",
+            "thumbnail": "uploads\/gallery\/6a4dca2452e5f_1783482916.png",
+            "video_url": "",
+            "created_at": ""
+        },
+        {
+            "id": "6a4dcaf911ef4",
+            "type": "video",
+            "title": "Người Nuôi Diều",
+            "description": "",
+            "file": "",
+            "thumbnail": "uploads\/gallery\/6a4dcb7201f2a_1783483250.png",
+            "video_url": "https:\/\/drive.google.com\/file\/d\/1rq3aEvev_HDYqLKYleN3LF_cHYn5pna2\/view",
+            "created_at": ""
+        },
+        {
+            "id": "6a967242c9fe0",
+            "type": "video",
+            "title": "“Cô đơn giữa cuộc tình” - Hồ Ngọc Hà",
+            "description": "",
+            "file": "",
+            "thumbnail": "https:\/\/img.youtube.com\/vi\/-N1H37hevUQ\/maxresdefault.jpg",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=-N1H37hevUQ",
+            "created_at": ""
+        },
+        {
+            "id": "6a96726749801",
+            "type": "video",
+            "title": "“Mối tình xưa” - Hồ Ngọc Hà",
+            "description": "",
+            "file": "",
+            "thumbnail": "https:\/\/img.youtube.com\/vi\/EXEcGRBqmgs\/maxresdefault.jpg",
+            "video_url": "https:\/\/youtu.be\/EXEcGRBqmgs?si=-w3HY6oo8lvObp1F",
+            "created_at": ""
+        },
+        {
+            "id": "6a967298dfedf",
+            "type": "video",
+            "title": "“Bức tranh tiền kiếp” - Dương Triệu Vũ",
+            "description": "",
+            "file": "",
+            "thumbnail": "https:\/\/img.youtube.com\/vi\/YGMKEy1PqdY\/maxresdefault.jpg",
+            "video_url": "https:\/\/youtu.be\/YGMKEy1PqdY?si=uskfXu5tB10DUW23",
+            "created_at": ""
+        },
+        {
+            "id": "6a9672b5771a8",
+            "type": "video",
+            "title": "“Ngải tình” - Thuỷ Tiên x DTAP",
+            "description": "",
+            "file": "",
+            "thumbnail": "https:\/\/img.youtube.com\/vi\/l9Q7AmJqGsw\/maxresdefault.jpg",
+            "video_url": "https:\/\/youtu.be\/l9Q7AmJqGsw?si=OAHtFRUR26wznDoC",
+            "created_at": ""
+        },
+        {
+            "id": "6a9672e7dfe55",
+            "type": "video",
+            "title": "“Người nuôi diều”",
+            "description": "",
+            "file": "",
+            "thumbnail": "https:\/\/img.youtube.com\/vi\/16fV6_cCTKE\/maxresdefault.jpg",
+            "video_url": "https:\/\/youtu.be\/16fV6_cCTKE?si=XPJAkUlnhQSfqdfP",
+            "created_at": ""
+        }
+    ],
+    "admin_menus": [
+        {
+            "id": "dashboard",
+            "title": "Dashboard",
+            "page": "index",
+            "icon": "home",
+            "section": "overview",
+            "order": 1,
+            "active": true,
+            "system": true
+        },
+        {
+            "id": "company",
+            "title": "Thông tin công ty",
+            "page": "company",
+            "icon": "building",
+            "section": "content",
+            "order": 2,
+            "active": true
+        },
+        {
+            "id": "hero",
+            "title": "Banner trang chủ",
+            "page": "hero",
+            "icon": "image",
+            "section": "content",
+            "order": 3,
+            "active": true,
+            "frontend_section": "hero"
+        },
+        {
+            "id": "about",
+            "title": "Về chúng tôi",
+            "page": "about",
+            "icon": "info",
+            "section": "content",
+            "order": 4,
+            "active": true,
+            "frontend_section": "about"
+        },
+        {
+            "id": "services",
+            "title": "Dịch vụ",
+            "page": "services",
+            "icon": "briefcase",
+            "section": "content",
+            "order": 5,
+            "active": true,
+            "frontend_section": "services"
+        },
+        {
+            "id": "team",
+            "title": "Đội ngũ",
+            "page": "team",
+            "icon": "users",
+            "section": "content",
+            "order": 6,
+            "active": true,
+            "frontend_section": "team"
+        },
+        {
+            "id": "features",
+            "title": "Điểm nổi bật",
+            "page": "features",
+            "icon": "star",
+            "section": "content",
+            "order": 7,
+            "active": true,
+            "frontend_section": "features"
+        },
+        {
+            "id": "process",
+            "title": "Quy trình",
+            "page": "process",
+            "icon": "list",
+            "section": "content",
+            "order": 8,
+            "active": true,
+            "frontend_section": "process"
+        },
+        {
+            "id": "clients",
+            "title": "Khách hàng",
+            "page": "clients",
+            "icon": "heart",
+            "section": "content",
+            "order": 9,
+            "active": true,
+            "frontend_section": "clients"
+        },
+        {
+            "id": "gallery",
+            "title": "Tư liệu (Ảnh\/Video)",
+            "page": "gallery",
+            "icon": "camera",
+            "section": "content",
+            "order": 10,
+            "active": true,
+            "frontend_section": "gallery"
+        },
+        {
+            "id": "cta_menu",
+            "title": "CTA (Kêu gọi hành động)",
+            "page": "cta",
+            "icon": "zap",
+            "section": "content",
+            "order": 11,
+            "active": true,
+            "frontend_section": "cta"
+        },
+        {
+            "id": "footer_menu",
+            "title": "Footer",
+            "page": "footer",
+            "icon": "layers",
+            "section": "content",
+            "order": 12,
+            "active": true
+        },
+        {
+            "id": "contacts",
+            "title": "Liên hệ nhận được",
+            "page": "contacts",
+            "icon": "mail",
+            "section": "customers",
+            "order": 13,
+            "active": true,
+            "frontend_section": "contact"
+        },
+        {
+            "id": "sections",
+            "title": "Sắp xếp Section",
+            "page": "sections",
+            "icon": "grid",
+            "section": "settings",
+            "order": 14,
+            "active": true
+        },
+        {
+            "id": "custom_sections_menu",
+            "title": "Tạo Section mới",
+            "page": "custom-sections",
+            "icon": "plus-square",
+            "section": "settings",
+            "order": 15,
+            "active": true
+        },
+        {
+            "id": "menus",
+            "title": "Quản lý Menu",
+            "page": "menus",
+            "icon": "menu",
+            "section": "settings",
+            "order": 16,
+            "active": true
+        },
+        {
+            "id": "settings",
+            "title": "Cài đặt chung",
+            "page": "settings",
+            "icon": "settings",
+            "section": "settings",
+            "order": 17,
+            "active": true
+        },
+        {
+            "id": "custom_doi_tac_chien_luoc",
+            "title": "Đối tác chiến lược",
+            "page": "edit-section",
+            "icon": "edit",
+            "section": "content",
+            "order": 18,
+            "active": true,
+            "frontend_section": "custom_doi_tac_chien_luoc",
+            "custom_url": "edit-section.php?id=custom_doi_tac_chien_luoc"
+        },
+        {
+            "id": "custom_co_so_vat_chat",
+            "title": "Cơ sở vật chất",
+            "page": "edit-section",
+            "icon": "edit",
+            "section": "content",
+            "order": 19,
+            "active": true,
+            "frontend_section": "custom_co_so_vat_chat",
+            "custom_url": "edit-section.php?id=custom_co_so_vat_chat"
+        },
+        {
+            "id": "custom_lo_trinh_noi_dung",
+            "title": "Lộ trình nội dung 2026-2027",
+            "page": "edit-section",
+            "icon": "edit",
+            "section": "content",
+            "order": 20,
+            "active": true,
+            "frontend_section": "custom_lo_trinh_noi_dung",
+            "custom_url": "edit-section.php?id=custom_lo_trinh_noi_dung"
+        },
+        {
+            "id": "custom_du_an_phim_ngan",
+            "title": "Dự án phim ngắn đã hoàn thành",
+            "page": "edit-section",
+            "icon": "edit",
+            "section": "content",
+            "order": 21,
+            "active": true,
+            "frontend_section": "custom_du_an_phim_ngan",
+            "custom_url": "edit-section.php?id=custom_du_an_phim_ngan"
+        },
+        {
+            "id": "custom_quy_trinh_hop_tac",
+            "title": "Quy trình hợp tác và phát hành",
+            "page": "edit-section",
+            "icon": "edit",
+            "section": "content",
+            "order": 22,
+            "active": true,
+            "frontend_section": "custom_quy_trinh_hop_tac",
+            "custom_url": "edit-section.php?id=custom_quy_trinh_hop_tac"
+        }
+    ],
+    "menu_sections": [
+        {
+            "id": "overview",
+            "title": "Tổng quan",
+            "order": 1
+        },
+        {
+            "id": "content",
+            "title": "Nội dung",
+            "order": 2
+        },
+        {
+            "id": "customers",
+            "title": "Khách hàng",
+            "order": 3
+        },
+        {
+            "id": "settings",
+            "title": "Cài đặt",
+            "order": 4
+        }
+    ],
+    "frontend_sections": [
+        {
+            "id": "hero",
+            "title_vi": "Kể câu chuyện bằng <span class=\"text-accent\">hình ảnh<\/span>",
+            "title_en": "Tell stories through <span class=\"text-accent\">visuals<\/span>",
+            "label_vi": "Trang chủ",
+            "label_en": "Home",
+            "order": 1
+        },
+        {
+            "id": "about",
+            "title_vi": "Về <span class=\"text-accent\">Chúng tôi<\/span>",
+            "title_en": "About <span class=\"text-accent\">Us<\/span>",
+            "label_vi": "Giới thiệu",
+            "label_en": "About",
+            "order": 2
+        },
+        {
+            "id": "services",
+            "title_vi": "Dịch vụ <span class=\"text-accent\">của chúng tôi<\/span>",
+            "title_en": "Our <span class=\"text-accent\">Services<\/span>",
+            "label_vi": "Dịch vụ",
+            "label_en": "Services",
+            "order": 3
+        },
+        {
+            "id": "team",
+            "title_vi": "Đội ngũ <span class=\"text-accent\">sáng tạo<\/span>",
+            "title_en": "Creative <span class=\"text-accent\">Team<\/span>",
+            "label_vi": "Đội ngũ",
+            "label_en": "Team",
+            "order": 4
+        },
+        {
+            "id": "features",
+            "title_vi": "Điểm <span class=\"text-accent\">nổi bật<\/span>",
+            "title_en": "Key <span class=\"text-accent\">Features<\/span>",
+            "label_vi": "Đặc điểm",
+            "label_en": "Features",
+            "order": 5
+        },
+        {
+            "id": "process",
+            "title_vi": "Quy trình <span class=\"text-accent\">làm việc<\/span>",
+            "title_en": "Our <span class=\"text-accent\">Process<\/span>",
+            "label_vi": "Quy trình",
+            "label_en": "Process",
+            "order": 6
+        },
+        {
+            "id": "clients",
+            "title_vi": "Khách hàng <span class=\"text-accent\">của chúng tôi<\/span>",
+            "title_en": "Our <span class=\"text-accent\">Clients<\/span>",
+            "label_vi": "Khách hàng",
+            "label_en": "Clients",
+            "order": 7
+        },
+        {
+            "id": "gallery",
+            "title_vi": "Tư liệu <span class=\"text-accent\">Ảnh & Video<\/span>",
+            "title_en": "Photo & Video <span class=\"text-accent\">Gallery<\/span>",
+            "label_vi": "Tư liệu",
+            "label_en": "Gallery",
+            "order": 8
+        },
+        {
+            "id": "cta",
+            "title_vi": "Sẵn sàng kể <span class=\"text-accent\">câu chuyện<\/span> của bạn?",
+            "title_en": "Ready to tell <span class=\"text-accent\">your story<\/span>?",
+            "label_vi": "Liên hệ",
+            "label_en": "Contact",
+            "order": 9
+        },
+        {
+            "id": "contact",
+            "title_vi": "Liên hệ",
+            "title_en": "Contact",
+            "label_vi": "Liên hệ",
+            "label_en": "Contact",
+            "order": 10
+        },
+        {
+            "id": "custom_doi_tac_chien_luoc",
+            "title_vi": "Đối tác sản xuất <span class=\"text-accent\">chiến lược<\/span>",
+            "title_en": "Strategic Production <span class=\"text-accent\">Partners<\/span>",
+            "label_vi": "Đối tác",
+            "label_en": "Partners",
+            "order": 11,
+            "is_custom": true
+        },
+        {
+            "id": "custom_co_so_vat_chat",
+            "title_vi": "Cơ sở vật chất & <span class=\"text-accent\">Công nghệ<\/span>",
+            "title_en": "Infrastructure & <span class=\"text-accent\">Technology<\/span>",
+            "label_vi": "Thiết bị",
+            "label_en": "Equipment",
+            "order": 12,
+            "is_custom": true
+        },
+        {
+            "id": "custom_lo_trinh_noi_dung",
+            "title_vi": "Lộ trình nội dung <span class=\"text-accent\">2026 - 2027<\/span>",
+            "title_en": "Content Roadmap <span class=\"text-accent\">2026 - 2027<\/span>",
+            "label_vi": "Roadmap",
+            "label_en": "Roadmap",
+            "order": 13,
+            "is_custom": true
+        },
+        {
+            "id": "custom_du_an_phim_ngan",
+            "title_vi": "Dự án phim ngắn <span class=\"text-accent\">đã hoàn thành<\/span>",
+            "title_en": "Completed <span class=\"text-accent\">Short Films<\/span>",
+            "label_vi": "Portfolio",
+            "label_en": "Portfolio",
+            "order": 14,
+            "is_custom": true
+        },
+        {
+            "id": "custom_quy_trinh_hop_tac",
+            "title_vi": "Quy trình hợp tác & <span class=\"text-accent\">Phát hành<\/span>",
+            "title_en": "Production Workflow & <span class=\"text-accent\">Distribution<\/span>",
+            "label_vi": "Quy trình",
+            "label_en": "Workflow",
+            "order": 15,
+            "is_custom": true
+        }
+    ],
+    "footer": {
+        "tagline_vi": "Vietnamese Stories, Built to Travel",
+        "tagline_en": "Vietnamese Stories, Built to Travel",
+        "description_vi": "Chúng tôi kể những câu chuyện thật qua trải nghiệm phim tài liệu điện ảnh.",
+        "description_en": "We tell real stories through cinematic documentary experiences.",
+        "copyright_vi": "© 2026 BenatarCorp. All rights reserved.",
+        "copyright_en": "© 2026 BenatarCorp. All rights reserved.",
+        "nav_links": []
+    },
+    "custom_sections": [
+        {
+            "id": "custom_doi_tac_chien_luoc",
+            "name": "Đối tác chiến lược",
+            "layout": "cards_grid",
+            "background": "dark",
+            "show_in_nav": true,
+            "active": true,
+            "content": {
+                "label_vi": "Đối tác",
+                "label_en": "Partners",
+                "title_vi": "Đối tác sản xuất <span class=\"text-accent\">chiến lược<\/span>",
+                "title_en": "Strategic Production <span class=\"text-accent\">Partners<\/span>",
+                "cards": [
+                    {
+                        "icon": "film",
+                        "title_vi": "Đạo diễn Bone Hồ",
+                        "title_en": "Director Bone Ho",
+                        "content_vi": "Cố vấn chiến lược và đạo diễn hợp tác cho TVC, MV và nội dung thương hiệu cao cấp.",
+                        "content_en": "Strategic advisor & co-director for premium commercials, music videos and branded content."
+                    },
+                    {
+                        "icon": "camera",
+                        "title_vi": "D42 Film",
+                        "title_en": "D42 Film",
+                        "content_vi": "Đồng hành sản xuất phim điện ảnh và phim ngắn, tối ưu quy trình quay và thiết kế sản xuất.",
+                        "content_en": "Co-production partner for feature and short films, optimizing filming workflows."
+                    },
+                    {
+                        "icon": "code",
+                        "title_vi": "WeCan Rental",
+                        "title_en": "WeCan Rental",
+                        "content_vi": "Cung cấp máy quay cinema, ống kính và thiết bị sản xuất chuyên nghiệp đạt chuẩn quốc tế.",
+                        "content_en": "International-standard cinema cameras, optics and professional equipment."
+                    },
+                    {
+                        "icon": "lightbulb",
+                        "title_vi": "TT Lighting",
+                        "title_en": "TT Lighting",
+                        "content_vi": "Chuyên gia ánh sáng hiện trường, kiến tạo mood, tone và chất lượng hình ảnh điện ảnh.",
+                        "content_en": "On-set lighting specialists shaping cinematic mood, tone and visual consistency."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "custom_co_so_vat_chat",
+            "name": "Cơ sở vật chất",
+            "layout": "three_columns",
+            "background": "light",
+            "show_in_nav": true,
+            "active": true,
+            "content": {
+                "label_vi": "Thiết bị",
+                "label_en": "Equipment",
+                "title_vi": "Cơ sở vật chất & <span class=\"text-accent\">Công nghệ<\/span>",
+                "title_en": "Infrastructure & <span class=\"text-accent\">Technology<\/span>",
+                "columns": [
+                    {
+                        "title_vi": "🎬 Camera Cinema 4K\/6K\/8K",
+                        "title_en": "🎬 Cinema Camera 4K\/6K\/8K",
+                        "content_vi": "Hệ thống camera chuẩn Cine 4K\/6K\/8K kết hợp với ống kính điện ảnh chuẩn sắc nét, đáp ứng tiêu chuẩn chiếu rạp & OTT.",
+                        "content_en": "Cinema-grade cameras with precision lenses meeting theatrical & OTT standards."
+                    },
+                    {
+                        "title_vi": "💡 Thiết bị ánh sáng",
+                        "title_en": "💡 Lighting & Grip",
+                        "content_vi": "Thiết bị chiếu sáng chuyên nghiệp và hỗ trợ trường quay đạt chuẩn quốc tế.",
+                        "content_en": "Professional lighting and grip equipment meeting international standards."
+                    },
+                    {
+                        "title_vi": "🎧 Giám sát & Âm thanh",
+                        "title_en": "🎧 Monitoring & Sound",
+                        "content_vi": "Trạm giám sát Wireless độ trễ cực thấp cho Đạo diễn & EP; hệ thống thu âm hiện trường đa kênh.",
+                        "content_en": "Low-latency wireless monitoring; multi-channel field recording systems."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "custom_lo_trinh_noi_dung",
+            "name": "Lộ trình nội dung 2026-2027",
+            "layout": "cards_grid",
+            "background": "dark",
+            "show_in_nav": true,
+            "active": true,
+            "content": {
+                "label_vi": "Roadmap",
+                "label_en": "Roadmap",
+                "title_vi": "Lộ trình nội dung <span class=\"text-accent\">2026 - 2027<\/span>",
+                "title_en": "Content Roadmap <span class=\"text-accent\">2026 - 2027<\/span>",
+                "cards": [
+                    {
+                        "icon": "globe",
+                        "title_vi": "From Home to Abroad",
+                        "title_en": "From Home to Abroad",
+                        "content_vi": "20 tập - Kỹ năng sống cho người Việt ở nước ngoài. Khởi động: Tháng 8\/2026",
+                        "content_en": "20 episodes - Life skills for Vietnamese abroad. Launch: Aug 2026"
+                    },
+                    {
+                        "icon": "music",
+                        "title_vi": "Đồng Dao Việt",
+                        "title_en": "Vietnamese Folk Rhymes",
+                        "content_vi": "24 tập phim ngắn chuyển thể đồng dao thành câu chuyện ấm áp về tuổi thơ và gia đình.",
+                        "content_en": "24 episodes transforming folk rhymes into warm childhood stories."
+                    },
+                    {
+                        "icon": "brush",
+                        "title_vi": "Làng Nghề",
+                        "title_en": "Craft Villages",
+                        "content_vi": "36 câu chuyện tình yêu, gia đình trong bối cảnh làng nghề truyền thống Việt Nam.",
+                        "content_en": "36 stories of love, family within traditional craft village settings."
+                    },
+                    {
+                        "icon": "film",
+                        "title_vi": "Phim Ngắn",
+                        "title_en": "Short Films",
+                        "content_vi": "4 phim ngắn đã hoàn thành - Trình diễn năng lực kể chuyện bằng hình ảnh.",
+                        "content_en": "4 completed short films showcasing visual storytelling."
+                    },
+                    {
+                        "icon": "award",
+                        "title_vi": "Stage-to-Screen",
+                        "title_en": "Stage-to-Screen",
+                        "content_vi": "15-20 vở kịch chuyển thể thành phim truyền hình 3-4 tập. Dự kiến: 2027",
+                        "content_en": "15-20 plays adapted to 3-4 episode TV series. Expected: 2027"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "custom_du_an_phim_ngan",
+            "name": "Dự án phim ngắn đã hoàn thành",
+            "layout": "cards_grid",
+            "background": "light",
+            "show_in_nav": true,
+            "active": true,
+            "content": {
+                "label_vi": "Portfolio",
+                "label_en": "Portfolio",
+                "title_vi": "Dự án phim ngắn <span class=\"text-accent\">đã hoàn thành<\/span>",
+                "title_en": "Completed <span class=\"text-accent\">Short Films<\/span>",
+                "cards": [
+                    {
+                        "icon": "film",
+                        "title_vi": "Phim 1",
+                        "title_en": "Film 1",
+                        "content_vi": "Đạo diễn: Châu Đỗ - Bảo Trần. Diễn viên: NSND Hồng Vân, Mai Trường",
+                        "content_en": "Director: Chau Do - Bao Tran. Cast: NSND Hong Van, Mai Truong"
+                    },
+                    {
+                        "icon": "film",
+                        "title_vi": "Phim 2",
+                        "title_en": "Film 2",
+                        "content_vi": "Đạo diễn: Nhật Linh. Diễn viên: Đức Khoa, Thúy Hòa",
+                        "content_en": "Director: Nhat Linh. Cast: Duc Khoa, Thuy Hoa"
+                    },
+                    {
+                        "icon": "film",
+                        "title_vi": "Phim 3",
+                        "title_en": "Film 3",
+                        "content_vi": "Đạo diễn: Châu Đỗ - Bảo Trần. Sản xuất: Benatar & D42 Film",
+                        "content_en": "Director: Chau Do - Bao Tran. Production: Benatar & D42 Film"
+                    },
+                    {
+                        "icon": "film",
+                        "title_vi": "Phim 4",
+                        "title_en": "Film 4",
+                        "content_vi": "Đạo diễn: Châu Đỗ - Bảo Trần. Diễn viên: Thanh Đoan, Thủy Cúc",
+                        "content_en": "Director: Chau Do - Bao Tran. Cast: Thanh Doan, Thuy Cuc"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "custom_quy_trinh_hop_tac",
+            "name": "Quy trình hợp tác và phát hành",
+            "layout": "cards_grid",
+            "background": "dark",
+            "show_in_nav": true,
+            "active": true,
+            "content": {
+                "label_vi": "Quy trình",
+                "label_en": "Workflow",
+                "title_vi": "Quy trình hợp tác & <span class=\"text-accent\">Phát hành<\/span>",
+                "title_en": "Production Workflow & <span class=\"text-accent\">Distribution<\/span>",
+                "cards": [
+                    {
+                        "icon": "lightbulb",
+                        "title_vi": "01. Phát triển",
+                        "title_en": "01. Develop",
+                        "content_vi": "Concept • Script • Format - Xây dựng ý tưởng, kịch bản và định dạng nội dung.",
+                        "content_en": "Concept • Script • Format - Building ideas, scripts and content formats."
+                    },
+                    {
+                        "icon": "camera",
+                        "title_vi": "02. Sản xuất",
+                        "title_en": "02. Produce",
+                        "content_vi": "Studio • Location • Post - Quay phim và hậu kỳ chuyên nghiệp.",
+                        "content_en": "Studio • Location • Post - Filming with professional post-production."
+                    },
+                    {
+                        "icon": "rocket",
+                        "title_vi": "03. Đồng hành",
+                        "title_en": "03. Amplify",
+                        "content_vi": "Brand Integration • PR • Digital - Tích hợp thương hiệu và truyền thông.",
+                        "content_en": "Brand Integration • PR • Digital marketing."
+                    },
+                    {
+                        "icon": "globe",
+                        "title_vi": "04. Phát hành",
+                        "title_en": "04. Distribute",
+                        "content_vi": "Licensing • Platforms • Markets - Phân phối đa nền tảng.",
+                        "content_en": "Licensing • Platforms • Markets distribution."
+                    }
+                ]
+            }
+        }
+    ],
+    "partners": []
+}
